@@ -1,13 +1,13 @@
 # Helm Charts
 
 This repository contains packaged Helm charts provided by Lian Duan.   
-The Chert files is used to Terraform Training
+The Chert files is used to Terraform and EKS Training
 
 
 ## Add Repository (stable)
-`$ helm repo add my-app-config-stable https://lianduantrain.github.io/Helm3/stable`   
+`$ helm repo add lians-demo  https://lianduantrain.github.io/HelmTerraformEKS/stable`   
 `$ helm repo update`
 
 ## Install Packages (stable)  
-`$ helm install my-release my-app-config-stable/my-app-config [--version=2.0.0]`  
+`$ helm install my-release lians-demo/demo-nginx [--version=2.0.0]`  
 

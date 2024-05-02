@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  demo-nginx-chart:
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2024-05-02T05:50:51.848287-04:00"
+    description: A Helm chart for EKS Demo
+    digest: 67efabd31eaa59e8fe13c26e48feb5b6c649e307de735b7ecffb344585fc57c2
+    name: demo-nginx-chart
+    type: application
+    urls:
+    - https://lianduantrain.github.io/HelmTerraformEKS/stable/demo-nginx-chart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-05-02T05:50:51.848125-04:00"
+    description: A Helm chart for EKS Demo
+    digest: 90160cfdd925e63f04a1a61646adcb61ba9f4ed0339ead43c1ea41bdd629cde4
+    name: demo-nginx-chart
+    type: application
+    urls:
+    - https://lianduantrain.github.io/HelmTerraformEKS/stable/demo-nginx-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-02T05:50:51.847907-04:00"
