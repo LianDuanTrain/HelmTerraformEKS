@@ -16,8 +16,8 @@ spec:
     spec:
       containers:
       - name: nginx
-        #image: public.ecr.aws/t1f2w6h8/ekswelcome:v1
-        image: nginx:1.26.0
+        image: public.ecr.aws/t1f2w6h8/ekswelcome:v1
+        #image: nginx:1.26.0
         resources:
           limits:
             memory: "256Mi"
