@@ -4,7 +4,7 @@ entries:
   - apiVersion: v2
     appVersion: 2.0.0
     created: "2024-05-02T05:50:51.848287-04:00"
-    description: A Nginx Helm chart for EKS ENV(Customized index page) 
+    description: A Nginx chart for EKS ENV(Customized index page) 
     digest: 67efabd31eaa59e8fe13c26e48feb5b6c649e307de735b7ecffb344585fc57c2
     name: demo-nginx-chart
     type: application
